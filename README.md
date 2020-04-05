@@ -1,2 +1,2 @@
 # Arduino-Relay
-Relay w/ Arduinp
+Relay w/ Arduino
